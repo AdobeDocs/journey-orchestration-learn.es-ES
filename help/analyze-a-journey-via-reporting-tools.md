@@ -4,11 +4,12 @@ description: En este tutorial se explica cómo navegar hasta el sistema de infor
 feature: Journey Orchestration
 topics: Introduction
 kt: 2777
+thumbnail: 29321
 audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: 6e4cf9083f6d38ff567466ccd3f7ca2ce12bcac2
+source-git-commit: 56b3abb5d3a69a516d45eb889932c6036ce54798
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 2%
