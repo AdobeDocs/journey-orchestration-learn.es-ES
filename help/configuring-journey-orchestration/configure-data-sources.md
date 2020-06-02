@@ -4,11 +4,12 @@ description: La orquestación de viajes le permite conectarse a la plataforma de
 feature: Journey Orchestration
 topics: Data Sources
 kt: 2774
+thumbnail: 29406.jpg
 audience: developer
 doc-type: video
 activity: setup
 translation-type: tm+mt
-source-git-commit: 795b30fe984b7fe715789144e8c421028d7d32ac
+source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 3%
