@@ -4,11 +4,12 @@ description: En el siguiente vídeo se explica cómo crear un nuevo viaje, el in
 feature: Journey Orchestration
 topics: Create a journey
 kt: 2789
+thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: 795b30fe984b7fe715789144e8c421028d7d32ac
+source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 4%
