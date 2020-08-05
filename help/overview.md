@@ -1,24 +1,26 @@
 ---
-title: 'Tutoriales de orquestación de viajes: Información general'
-description: La orquestación de viajes le permite crear casos de uso de orquestación en tiempo real aprovechando los datos contextuales almacenados en eventos o fuentes de datos
+title: 'Tutorials Journey Orchestration: Información general'
+description: Journey Orchestration le permite crear casos de uso de orquestación en tiempo real aprovechando los datos contextuales almacenados en eventos o fuentes de datos
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: d8a3de100c1b0607abf16e59dba8a5783f6097fc
+source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 1%
+source-wordcount: '245'
+ht-degree: 2%
 
 ---
 
 
 # Información general
 
-[!UICONTROL Journey Orchestration] es un servicio de aplicaciones integrado con Adobe Experience Platform. Le permite crear casos de uso de orquestación en tiempo real aprovechando los datos contextuales almacenados en eventos o fuentes de datos.
+[!UICONTROL Journey Orchestration] es un servicio de aplicaciones integrado con el Adobe Experience Platform. Le permite crear casos de uso de orquestación en tiempo real aprovechando los datos contextuales almacenados en eventos o fuentes de datos.
 
 ## Novedades
 
-* **[Cómo encontrar ayuda con la orquestación de viajes](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
-   *Comprender dónde puede encontrar rápidamente respuestas a sus preguntas[!UICONTROL Journey Orchestration], cómo comunicarse con el servicio de soporte técnico y dónde registrar los tickets de asistencia, así como cómo puede darnos sus comentarios.*
+* **[eventos de paso de viaje de Sistema de informes a Adobe Experience Platform](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
+   *Conozca cuáles son los eventos de paso del viaje y qué pasos de datos se crean automáticamente en el Experience Platform y cómo explorarlos.*
+* **[Uso de eventos de cualificación de segmentos](help/using-segment-qualification-events.md)**   <br>
+   *Este vídeo le ofrece una breve introducción sobre cómo crear un viaje con un evento de cualificación del segmento como punto de entrada o salida.*
 
 ## Selección de personal
 
@@ -26,15 +28,15 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="./understanding-journey-orchestration.md">
-      <img alt="Explicación de la orquestación de viajes" src="./assets/journey-orchestration-example.png"/>
+      <img alt="Explicación del Journey Orchestration" src="./assets/journey-orchestration-example.png"/>
     </a>
     <div>
       <a href="./understanding-journey-orchestration.md">
-    <strong>Explicación de la orquestación de viajes</strong>
+    <strong>Explicación del Journey Orchestration</strong>
     </a>
     </div>
     <p>
-    <em>Comprender el concepto de orquestación de viajes, los tipos de casos de uso que habilita y los elementos clave de cómo funciona la orquestación de viajes.</em>
+    <em>Comprender el concepto de Journey Orchestration, los tipos de casos de uso que habilita y los elementos clave del funcionamiento del Journey Orchestration.</em>
     <p>
   </td>
   <td>
@@ -68,6 +70,6 @@ ht-degree: 1%
 
 ## Recursos adicionales
 
-* [Centro de ayuda de orquestación de viajes](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
-* [Tutoriales de Adobe Experience Platform](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Centro de ayuda de Journey Orchestration](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
+* [Tutorials de Adobe Experience Platform](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
 
