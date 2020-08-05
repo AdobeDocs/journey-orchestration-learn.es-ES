@@ -1,6 +1,6 @@
 ---
-title: 'eventos de paso del viaje de Sistema de informes al Adobe Experience Platform '
-description: En este tutorial se explica cómo navegar hasta el sistema de informes durante el viaje, cómo personalizar los intervalos de fechas para el informe y cómo guardar una plantilla de sistema de informes para un uso futuro.
+title: 'eventos de paso de viaje de Sistema de informes a Adobe Experience Platform '
+description: En el siguiente vídeo se explica qué son los eventos de paso del viaje y qué pasos de datos se crean automáticamente en el Experience Platform y cómo explorarlos.
 feature: Journey Orchestration
 topics: Introduction
 kt: 5488
@@ -9,10 +9,10 @@ audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: 3d8621e0bdda1aa6b9a576fca07aacebd1ad46d5
+source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 1%
+source-wordcount: '99'
+ht-degree: 6%
 
 ---
 
@@ -27,4 +27,4 @@ El siguiente vídeo explica cuáles [!UICONTROL journey step events] son y en qu
 ## Recursos adicionales
 
 * [Centro](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)de ayuda del Journey Orchestration:
-* [Información general sobre el uso compartido de los pasos del viaje](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html)
+* [Información general sobre el uso compartido de los pasos del recorrido](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html)
