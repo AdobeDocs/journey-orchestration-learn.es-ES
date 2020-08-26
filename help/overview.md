@@ -3,7 +3,7 @@ title: 'Tutoriales de Journey Orchestration: Descripción general'
 description: Journey Orchestration permite crear casos de uso de orquestación en tiempo real aprovechando los datos contextuales almacenados en eventos o fuentes de datos.
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
+source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 80%
@@ -17,7 +17,7 @@ ht-degree: 80%
 
 ## Novedades
 
-* **[Creación de informes de los eventos de los pasos del recorrido para Adobe Experience Platform](/help/how-to-find-help-with-journey-orchestration.md)**
+* **[Creación de informes de los eventos de los pasos del recorrido para Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)**
 
    <br>
    *Conozca cuáles son los eventos de paso del viaje y qué pasos de datos se crean automáticamente en el Experience Platform y cómo explorarlos.*
