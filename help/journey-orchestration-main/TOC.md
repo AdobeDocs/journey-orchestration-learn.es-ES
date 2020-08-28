@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 95%
 + [Información general](/help/overview.md)
 + [Explicación de Journey Orchestration](/help/understanding-journey-orchestration.md)
 + [Configuración de eventos de flujo continuo](/help/configuring-journey-orchestration/configure-streaming-events.md)
-+ [Uso de eventos de cualificación de segmentos](/help/using-segment-qualification-events.md)
++ [Uso de eventos de calificación de segmentos](/help/using-segment-qualification-events.md)
 + [Configuración de fuente de datos](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [Configuración de acciones](/help/configuring-journey-orchestration/configure-actions.md)
 + [Crear un recorrido](/help/create-a-journey.md)
