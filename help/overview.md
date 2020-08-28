@@ -6,7 +6,7 @@ translation-type: tm+mt
 source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 80%
 * **[Creación de informes de los eventos de los pasos del recorrido para Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)**
 
    <br>
-   *Conozca cuáles son los eventos de paso del viaje y qué pasos de datos se crean automáticamente en el Experience Platform y cómo explorarlos.*
-* **[Uso de eventos de cualificación de segmentos](/help/using-segment-qualification-events.md)**
+   *Descubra cuáles son los eventos de paso del recorrido y qué pasos de datos se crean automáticamente en Experience Platform y cómo explorarlos.*
+* **[Uso de eventos de calificación de segmentos](/help/using-segment-qualification-events.md)**
 
    <br>
-   *Este vídeo le ofrece una breve introducción sobre cómo crear un viaje con un evento de cualificación del segmento como punto de entrada o salida.*
+   *Este vídeo le ofrece una breve introducción sobre cómo crear un recorrido con un evento de calificación de segmentos como punto de entrada o salida.*
 
 ## Selección de personal
 
