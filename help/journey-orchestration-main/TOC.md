@@ -8,9 +8,10 @@ tutorials-title: Tutoriales
 tutorials-url: https://docs.adobe.com/content/help/es-ES/journey-orchestration-learn/tutorials/overview.html
 getting-started-title: Centro de ayuda
 getting-started-url: https://docs.adobe.com/content/help/es-ES/journeys/using/journey-orchestration-home.html
-translation-type: ht
-source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
-workflow-type: ht
+type: Tutorial
+translation-type: tm+mt
+source-git-commit: b18a9e53db4b4715c320d62f8386e6eb8c072fa9
+workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
 
