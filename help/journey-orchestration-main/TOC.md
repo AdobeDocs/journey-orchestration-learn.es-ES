@@ -1,6 +1,7 @@
 ---
 product: journey orchestration
 user-guide-title: Tutoriales de Journey Orchestration
+user-guide-description: Learn how to configure, create, publish, and analyze a journey.
 user-guide-url: https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Journey+Orchestration#recommended/solutions/journey-orchestration
@@ -10,7 +11,7 @@ getting-started-title: Centro de ayuda
 getting-started-url: https://docs.adobe.com/content/help/es-ES/journeys/using/journey-orchestration-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: b18a9e53db4b4715c320d62f8386e6eb8c072fa9
+source-git-commit: 7c975de38ccd3ab724bafd8d53118eb092b844fe
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
