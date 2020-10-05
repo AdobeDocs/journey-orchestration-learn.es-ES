@@ -75,5 +75,5 @@ ht-degree: 100%
 ## Recursos adicionales
 
 * [Centro de ayuda de Journey Orchestration](https://docs.adobe.com/content/help/es-ES/journeys/using/journey-orchestration-home.html)
-* [Tutoriales de Adobe Experience Platform](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Tutoriales de Adobe Experience Platform](https://docs.adobe.com/content/help/es-ES/platform-learn/tutorials/overview.html)
 
