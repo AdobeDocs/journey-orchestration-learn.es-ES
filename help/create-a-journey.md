@@ -8,9 +8,9 @@ thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ El siguiente vídeo explica cómo hacer lo siguiente:
 * Utilice [!UICONTROL Orchestration] los controles para controlar el flujo y el tiempo de un recorrido.
 * Utilice acciones para comprometerse en los puntos del recorrido.
 
->[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
 
 ## Recursos adicionales
 
