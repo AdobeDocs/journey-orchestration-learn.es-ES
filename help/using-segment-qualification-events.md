@@ -8,9 +8,9 @@ thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ Los casos de uso de ejemplo podrían ser los siguientes:
 
 Este vídeo le ofrece una breve introducción sobre dónde configurar segmentos y cómo configurar un evento de calificación de segmentos en un recorrido.
 
->[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12)
 
 ## Recursos adicionales
 
