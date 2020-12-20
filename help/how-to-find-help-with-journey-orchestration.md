@@ -8,9 +8,9 @@ thumbnail: 32010.jpg
 audience: developer, business user, admin
 doc-type: video
 activity: understand
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 56b3abb5d3a69a516d45eb889932c6036ce54798
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 En este vídeo se explica dónde puede encontrar rápidamente respuestas a sus preguntas sobre [!UICONTROL Journey Orchestration], cómo ponerse en contacto con el servicio de asistencia técnica, dónde registrar los vales de soporte y cómo puede enviarnos sus comentarios.
 
->[!VIDEO](https://video.tv.adobe.com/v/32010?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/32010?quality=12)
