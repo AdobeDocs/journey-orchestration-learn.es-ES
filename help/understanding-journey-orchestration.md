@@ -9,7 +9,7 @@ audience: user, developer
 doc-type: video
 activity: understand
 translation-type: tm+mt
-source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
+source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 100%
@@ -47,7 +47,7 @@ Los principales pasos para preparar los recorridos de construcción son los sigu
 
 ## Cómo crear, publicar y analizar un recorrido
 
-1. [Crear un Recorrido](/help/create-a-journey.md)
+1. [Crear un Recorrido](/help/building-a-journey/creating-a-journey.md)
 1. [Validación y publicación de un Recorrido](/help/validate-and-publish-a-journey.md)
 1. [Analizar un recorrido con las herramientas de sistema de informes](/help/analyze-a-journey-via-reporting-tools.md)
 
