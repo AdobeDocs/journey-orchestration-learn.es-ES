@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/es-ES/journey-orchestration-l
 getting-started-title: Centro de ayuda
 getting-started-url: https://docs.adobe.com/content/help/es-ES/journeys/using/journey-orchestration-home.html
 translation-type: tm+mt
-source-git-commit: a8d066e15a4ab664b86a1bc8975b1b3f6414bf90
+source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '97'
+ht-degree: 95%
 
 ---
 
@@ -26,7 +26,9 @@ ht-degree: 100%
 + [Uso de eventos de calificación de segmentos](/help/using-segment-qualification-events.md)
 + [Configuración de fuente de datos](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [Configuración de acciones](/help/configuring-journey-orchestration/configure-actions.md)
-+ [Crear un recorrido](/help/create-a-journey.md)
++ Crear un recorrido {#building-a-journey}
+   + [Creación de un recorrido](/help/building-a-journey/creating-a-journey.md)
+   + [Saltar a otro recorrido](/help/building-a-journey/jumping-to-another-journey.md)
 + [Validación y publicación de un Recorrido](/help/validate-and-publish-a-journey.md)
 + [Análisis de un recorrido con las herramientas de sistema de informes](/help/analyze-a-journey-via-reporting-tools.md)
 + [Creación de informes de los eventos de los pasos del recorrido para Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
