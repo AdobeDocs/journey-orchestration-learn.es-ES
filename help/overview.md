@@ -2,11 +2,11 @@
 title: 'Tutoriales de Journey Orchestration: Descripción general'
 description: Journey Orchestration permite crear casos de uso de orquestación en tiempo real aprovechando los datos contextuales almacenados en eventos o fuentes de datos.
 products: Journey orchestration
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: c48c2e522fee95651f1a7b68cf17d6242c898242
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '203'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -17,10 +17,10 @@ ht-degree: 93%
 
 ## Novedades
 
-* **[Saltar a otro recorrido](/help/building-a-journey/jumping-to-another-journey.md)**
+* **[Cambio a otro recorrido](/help/building-a-journey/jumping-to-another-journey.md)**
 
    <br>
-   *Aprenda a empujar a los individuos de un recorrido a otro.*
+   *Aprenda a mover a las personas de un recorrido a otro.*
 
 ## Selección de personal
 
