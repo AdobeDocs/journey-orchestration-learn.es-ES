@@ -8,9 +8,9 @@ thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '326'
 ht-degree: 100%
 
@@ -31,7 +31,7 @@ El siguiente vídeo presenta lo siguiente:
 * Tipos de casos de uso que habilita.
 * Los elementos clave de cómo [!UICONTROL Journey Orchestration] funciona.
 
->[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12&captions=spa)
 
 ## Cómo configurar un recorrido
 
@@ -43,7 +43,7 @@ Los principales pasos para preparar los recorridos de construcción son los sigu
 
 >[!NOTE]
 >
->Estos pasos de configuración requieren conocimientos técnicos. Deberá estar familiarizado con el [Modelo de datos de Experience (XDM)](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html) y [cómo componer esquemas de evento de experiencia XDM](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html).
+>Estos pasos de configuración requieren conocimientos técnicos. Deberá estar familiarizado con el [Modelo de datos de Experience (XDM)](https://docs.adobe.com/content/help/es-ES/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html) y [cómo componer esquemas de evento de experiencia XDM](https://docs.adobe.com/content/help/es-ES/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html).
 
 ## Cómo crear, publicar y analizar un recorrido
 
@@ -54,7 +54,7 @@ Los principales pasos para preparar los recorridos de construcción son los sigu
 ## Recursos adicionales
 
 * [Centro de ayuda de Journey Orchestration](https://docs.adobe.com/content/help/es-ES/journeys/using/journey-orchestration-home.html)
-* [Tutoriales de Adobe Experience Platform](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Tutoriales de Adobe Experience Platform](https://docs.adobe.com/content/help/es-ES/platform-learn/tutorials/overview.html)
 * [Cómo encontrar ayuda con Journey Orchestration](/help/understanding-journey-orchestration.md)
-* [SDK de Adobe Experience Platform Mobile: Launch](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
+* [SDK de Adobe Experience Platform Mobile: Launch](https://docs.adobe.com/content/help/es-ES/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 * [Servicio de ubicación de Adobe Experience Platform](https://docs.adobe.com/content/help/es-ES/places/using/home.html)
