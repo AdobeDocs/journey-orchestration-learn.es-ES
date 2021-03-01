@@ -11,7 +11,7 @@ activity: setup
 translation-type: tm+mt
 source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '255'
 ht-degree: 36%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 36%
 
 # Configuración de eventos de flujo continuo
 
-[!UICONTROL Journey Orchestration] escucha los eventos y orquesta las mejores acciones siguientes dentro del viaje del cliente en función de estos eventos. Un evento puede relacionarse con:
+[!UICONTROL Journey Orchestration] escucha los eventos y orquesta las mejores siguientes acciones dentro del recorrido del cliente en función de estos eventos. Un evento puede relacionarse con:
 
 * Las acciones directas de una persona (por ejemplo, compraron un producto, visitaron una tienda o abandonaron un carro de compras en línea) o
 * Algo que sucedió que está relacionado con el individuo (por ejemplo, cuando alcanzaron los 10.000 puntos de lealtad)
@@ -30,14 +30,14 @@ ht-degree: 36%
 >
 >Deberá estar familiarizado con:
 >
->* [Modelo de datos de experiencia (XDM)](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
->* [Cómo componer Esquemas XDM para Eventos de experiencias](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
+>* [Modelo de datos de experiencia (XDM)](https://docs.adobe.com/content/help/es-ES/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
+>* [Cómo componer Esquemas XDM para Eventos de experiencias](https://docs.adobe.com/content/help/es-ES/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
 >* [Transmisión de datos](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
 >
 Para comprender los ejemplos utilizados en el vídeo, también debe familiarizarse con los siguientes servicios de Adobe Experience Platform:
 >
->* [SDK de Adobe Experience Platform Mobile: Launch](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
+>* [SDK de Adobe Experience Platform Mobile: Launch](https://docs.adobe.com/content/help/es-ES/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 >* [Servicio de ubicación de Adobe Experience Platform](https://docs.adobe.com/content/help/es-ES/places/using/home.html)
 
 
