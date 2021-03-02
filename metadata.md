@@ -2,14 +2,15 @@
 cloud: experience-cloud
 product: journey orchestration
 solution: Journey Orchestration
+feature-set: Journey Orchestration
 type: Tutorial
 mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/journey-orchestration-learn.es-ES
 index: false
-translation-type: ht
-source-git-commit: a8d066e15a4ab664b86a1bc8975b1b3f6414bf90
-workflow-type: ht
-source-wordcount: '130'
+translation-type: tm+mt
+source-git-commit: 6b871a15729289fc8f8d1ec446b55147e408806a
+workflow-type: tm+mt
+source-wordcount: '131'
 ht-degree: 100%
 
 ---
