@@ -1,18 +1,19 @@
 ---
 title: 'Creación de informes de los eventos de los pasos del recorrido para Adobe Experience Platform '
-description: El siguiente vídeo explica cuáles son los eventos de paso del recorrido y qué pasos de datos se crean automáticamente en Experience Platform y cómo explorarlos.
-feature: Journey Orchestration
+description: Comprenda cuáles son los eventos de paso del recorrido y cuáles son los pasos de datos y cómo explorarlos.
+feature: Recorridos
 topics: Introduction
 kt: 5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
+role: Profesional empresarial, administrador
 translation-type: tm+mt
-source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 100%
+source-wordcount: '95'
+ht-degree: 78%
 
 ---
 
