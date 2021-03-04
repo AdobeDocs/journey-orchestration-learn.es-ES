@@ -1,18 +1,19 @@
 ---
 title: Uso de eventos de calificación de segmentos
-description: Este vídeo le ofrece una breve introducción sobre dónde configurar segmentos y cómo configurar un evento de calificación de segmentos en un recorrido.
-feature: Journey Orchestration
+description: Aprenda dónde configurar segmentos y cómo configurar un evento de calificación de segmentos en un recorrido.
+feature: Segmentos, eventos
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
+role: Profesional empresarial, administrador
 translation-type: tm+mt
-source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 100%
+source-wordcount: '137'
+ht-degree: 84%
 
 ---
 
