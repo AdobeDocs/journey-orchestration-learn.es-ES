@@ -1,37 +1,38 @@
 ---
-title: Configuración de eventos de flujo continuo para el Journey Orchestration de Adobe
-description: En este vídeo se explica cómo configurar esquemas y conjuntos de datos XDM para eventos de Journey Orchestration, definir un evento en Journey Orchestration y configurar sistemas de origen para eventos de flujo
-feature: Journey Orchestration
+title: Configuración de eventos de flujo continuo para Adobe Journey Orchestration
+description: '"Obtenga información sobre cómo configurar esquemas y conjuntos de datos XDM para eventos de Journey Orchestration, definir un evento en Journey Orchestration y configurar sistemas de origen para eventos de flujo"'
+feature: Fuentes de datos, eventos, esquemas
 topics: Events
 kt: 3731
 thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
+role: Administrador
 translation-type: tm+mt
-source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 36%
+source-wordcount: '256'
+ht-degree: 25%
 
 ---
 
 
 # Configuración de eventos de flujo continuo
 
-[!UICONTROL Journey Orchestration] escucha los eventos y orquesta las mejores siguientes acciones dentro del recorrido del cliente en función de estos eventos. Un evento puede relacionarse con:
+[!UICONTROL Journey Orchestration] escucha eventos y organiza las mejores acciones siguientes dentro del recorrido del cliente en función de estos eventos. Un evento puede estar relacionado con:
 
-* Las acciones directas de una persona (por ejemplo, compraron un producto, visitaron una tienda o abandonaron un carro de compras en línea) o
-* Algo que sucedió que está relacionado con el individuo (por ejemplo, cuando alcanzaron los 10.000 puntos de lealtad)
+* Acciones directas de una persona (por ejemplo, compraron un producto, visitaron una tienda o abandonaron un carro de la compra en línea) o
+* Algo que sucedió que está relacionado con el individuo (por ejemplo, que alcanzó 10.000 puntos de lealtad)
 
-[!UICONTROL Journey Orchestration] Los eventos se  [!UICONTROL XDM experience events] envían al Adobe Experience Platform a través de  [!UICONTROL streaming ingestion].
+[!UICONTROL Journey Orchestration] Los eventos se envían  [!UICONTROL XDM experience events] a Adobe Experience Platform a través de  [!UICONTROL streaming ingestion].
 
 >[!NOTE]
 >
 >Deberá estar familiarizado con:
 >
->* [Modelo de datos de experiencia (XDM)](https://docs.adobe.com/content/help/es-ES/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
->* [Cómo componer Esquemas XDM para Eventos de experiencias](https://docs.adobe.com/content/help/es-ES/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
+>* [El modelo de datos de experiencia (XDM)](https://docs.adobe.com/content/help/es-ES/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
+>* [Cómo componer esquemas XDM para eventos de experiencias](https://docs.adobe.com/content/help/es-ES/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
 >* [Transmisión de datos](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
 >
@@ -41,13 +42,13 @@ Para comprender los ejemplos utilizados en el vídeo, también debe familiarizar
 >* [Servicio de ubicación de Adobe Experience Platform](https://docs.adobe.com/content/help/es-ES/places/using/home.html)
 
 
-## Cómo configurar [!UICONTROL streaming events]
+## Configuración de [!UICONTROL streaming events]
 
 El siguiente vídeo explica cómo:
 
 * Configurar esquemas y conjuntos de datos XDM para eventos [!UICONTROL Journey Orchestration]
 * Definir un evento en [!UICONTROL Journey Orchestration]
-* Configuración de sistemas de origen para transmitir eventos
+* Configuración de sistemas de origen para flujos de eventos
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12)
 
