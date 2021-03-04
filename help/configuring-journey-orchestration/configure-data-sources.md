@@ -1,34 +1,35 @@
 ---
-title: Configuración de fuentes de datos para el Journey Orchestration de Adobe
-description: Journey Orchestration le permite conectarse al Adobe Experience Platform u otros sistemas de terceros para recuperar información adicional. Este tutorial explica cómo configurar la fuente de datos de Experience Platform, configurar una fuente de datos externa, buscar y utilizar datos en un viaje.
-feature: Journey Orchestration
+title: Configuración de fuentes de datos para Adobe Journey Orchestration
+description: '"Obtenga información sobre cómo configurar una fuente de datos de Experience Platform, configurar una fuente de datos externa y buscar y utilizar datos en un recorrido".'
+feature: Fuentes de datos
 topics: Data Sources
 kt: 2774
 thumbnail: 29406.jpg
 audience: developer
 doc-type: video
 activity: setup
+role: Administrador
 translation-type: tm+mt
-source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
+source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 12%
+source-wordcount: '144'
+ht-degree: 15%
 
 ---
 
 
 # Configuración de fuente de datos
 
-[!UICONTROL Journey Orchestration] le permite conectarse a Adobe Experience Platform u otras fuentes de datos de terceros para recuperar información adicional que se puede utilizar en un viaje para:
+[!UICONTROL Journey Orchestration] le permite conectarse a Adobe Experience Platform u otras fuentes de datos de terceros para recuperar información adicional que se puede utilizar en un recorrido para:
 
-* Definición de las condiciones
+* Definición de condiciones
 * Parámetros y datos de personalización en acciones
 * [!UICONTROL Custom timer] definición
 * Definición de zona horaria personalizada
 
-Esta configuración no es necesaria si el único modo de aprovechar los datos locales procedentes de una carga útil de evento es mediante el uso de esta función.
+Esta configuración no es necesaria si el recorrido solo aprovecha los datos locales procedentes de una carga útil de evento.
 
-El siguiente vídeo explica cómo: Configure una fuente de datos de Experience Platform y una fuente de datos externa, así como cómo buscar y utilizar datos en un viaje.
+El siguiente vídeo explica cómo: Configure una fuente de datos de Experience Platform y una fuente de datos externa, así como cómo buscar y utilizar datos en un recorrido.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12)
 
