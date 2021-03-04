@@ -1,7 +1,7 @@
 ---
 title: Cambio a otro recorrido
 description: 'Aprenda a mover a las personas de un recorrido a otro. '
-feature: Journey Orchestration
+feature: Recorridos
 topics: activity
 kt: 6695
 thumbnail: 330560.jpg
@@ -9,11 +9,12 @@ audience: user
 doc-type: video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
-workflow-type: ht
-source-wordcount: '79'
-ht-degree: 100%
+role: Profesional empresarial, administrador
+translation-type: tm+mt
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+workflow-type: tm+mt
+source-wordcount: '83'
+ht-degree: 95%
 
 ---
 
@@ -27,7 +28,7 @@ La actividad de acción Jump le permite:
 * Simplificar el diseño de recorridos muy complejos dividiéndolos en varios
 * Generar recorridos basados en patrones de recorrido comunes y reutilizables
 
->[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12)
 
 ## Recursos adicionales
 
