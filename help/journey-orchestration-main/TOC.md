@@ -11,10 +11,10 @@ getting-started-title: Centro de ayuda
 getting-started-url: https://docs.adobe.com/content/help/es-ES/journeys/using/journey-orchestration-home.html
 level: Principiante
 translation-type: tm+mt
-source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
+source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -30,6 +30,7 @@ ht-degree: 98%
 + Creación de un recorrido {#building-a-journey}
    + [Crear un recorrido](/help/building-a-journey/creating-a-journey.md)
    + [Cambio a otro recorrido](/help/building-a-journey/jumping-to-another-journey.md)
+   + [Actualizar acción de perfil](/help/building-a-journey/update-profile-action.md)
 + [Validación y publicación de un Recorrido](/help/validate-and-publish-a-journey.md)
 + [Análisis de un recorrido con las herramientas de sistema de informes](/help/analyze-a-journey-via-reporting-tools.md)
 + [Creación de informes de los eventos de los pasos del recorrido para Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
