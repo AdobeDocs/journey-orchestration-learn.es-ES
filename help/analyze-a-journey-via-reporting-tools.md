@@ -1,6 +1,6 @@
 ---
 title: Analizar un recorrido con las herramientas de sistema de informes
-description: '"Conozca cómo navegar hasta el sistema de informes para su recorrido, cómo personalizar los intervalos de fechas para el informe y cómo guardar una plantilla del sistema de informes para uso futuro."'
+description: “Aprenda a navegar hasta el sistema de informes para su recorrido, personalizar los intervalos de fechas para el informe y guardar una plantilla del sistema de informes para uso futuro”.
 feature: Informes
 topics: Introduction
 kt: 2777
@@ -9,14 +9,14 @@ audience: user
 doc-type: video
 activity: use
 role: Profesional empresarial, administrador
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
-workflow-type: tm+mt
+exl-id: f6f13fba-d815-424f-86e5-918577609882
+translation-type: ht
+source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
-
 
 # Analizar un recorrido con las herramientas de sistema de informes
 
