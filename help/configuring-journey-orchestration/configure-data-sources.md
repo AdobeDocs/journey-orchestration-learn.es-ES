@@ -1,14 +1,14 @@
 ---
 title: Configuración de fuentes de datos para Adobe Journey Orchestration
 description: '"Obtenga información sobre cómo configurar una fuente de datos de Experience Platform, configurar una fuente de datos externa y buscar y utilizar datos en un recorrido".'
-feature: Fuentes de datos
+feature: Data Sources
 topics: Data Sources
 kt: 2774
 thumbnail: 29406.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: Administrador
+role: Administrator
 translation-type: tm+mt
 source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
 workflow-type: tm+mt

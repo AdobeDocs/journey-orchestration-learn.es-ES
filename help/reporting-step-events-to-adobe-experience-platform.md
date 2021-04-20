@@ -1,14 +1,14 @@
 ---
 title: 'Creación de informes de los eventos de los pasos del recorrido para Adobe Experience Platform '
 description: Comprenda cuáles son los eventos de paso del recorrido y cuáles son los pasos de datos y cómo explorarlos.
-feature: Recorridos
+feature: Journeys
 topics: Introduction
 kt: 5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
-role: Profesional empresarial, administrador
+role: Business Practitioner, Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt

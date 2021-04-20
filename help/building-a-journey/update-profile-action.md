@@ -1,10 +1,10 @@
 ---
 title: Actualización de acción de perfil
 description: Obtenga información sobre cómo actualizar un perfil de Adobe Experience Platform existente con información proveniente de un evento, una fuente de datos o utilizando un valor específico.
-feature: Acciones
+feature: Actions
 kt: 7313
 thumbnail: 332112.jpg
-role: Profesional empresarial
+role: Business Practitioner
 activity: use
 team: PM
 exl-id: 5e45b702-2c99-49ad-ae00-65f7555acd09

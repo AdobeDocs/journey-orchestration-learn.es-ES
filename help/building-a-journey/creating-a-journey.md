@@ -1,14 +1,14 @@
 ---
 title: Crear un recorrido con Adobe Journey Orchestration
 description: “Aprenda a crear un nuevo recorrido, comenzar con un evento, usar controles de orquestaciones para controlar el flujo y el tiempo de un recorrido, y usar acciones de interacción en determinados puntos del recorrido”.
-feature: Recorridos
+feature: Journeys
 topics: Create a journey
 kt: 2789
 thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
-role: Profesional empresarial, Administrador
+role: Business Practitioner, Administrator
 exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
 translation-type: ht
 source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829

@@ -1,7 +1,7 @@
 ---
 title: Cambio a otro recorrido
 description: 'Aprenda a mover a las personas de un recorrido a otro. '
-feature: Recorridos
+feature: Journeys
 topics: activity
 kt: 6695
 thumbnail: 330560.jpg
@@ -9,7 +9,7 @@ audience: user
 doc-type: video
 activity: use
 team: PM
-role: Profesional empresarial, Administrador
+role: Business Practitioner, Administrator
 exl-id: 185c5c83-5444-4592-b113-732ee561f55a
 translation-type: ht
 source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829

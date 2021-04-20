@@ -1,14 +1,14 @@
 ---
 title: Cómo encontrar ayuda con Journey Orchestration
 description: Comprender cómo puede encontrar ayuda fácilmente
-feature: Información general
+feature: Overview
 topics: Help and Support
 kt: 4019
 thumbnail: 32010.jpg
 audience: developer, business user, admin
 doc-type: video
 activity: understand
-role: Profesional empresarial, administrador
+role: Business Practitioner, Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
