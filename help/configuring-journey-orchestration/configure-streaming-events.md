@@ -1,22 +1,21 @@
 ---
 title: Configuración de eventos de flujo continuo para el Journey Orchestration de Adobe
-description: '"Obtenga información sobre cómo configurar esquemas y conjuntos de datos XDM para eventos de Journey Orchestration, definir un evento en Journey Orchestration y configurar sistemas de origen para eventos de flujo"'
-feature: Data Sources, Events, Schemas
+description: '"Aprenda a configurar conjuntos de datos y esquemas XDM para eventos de Journey Orchestration, definir un evento en Journey Orchestration, y configurar sistemas de origen para eventos de flujo"'
+feature: Fuentes de datos, eventos, esquemas
 topics: Events
 kt: 3731
 thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: Administrator
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+role: Admin
+exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 25%
+source-wordcount: '255'
+ht-degree: 35%
 
 ---
-
 
 # Configuración de eventos de flujo continuo
 
