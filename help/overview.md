@@ -2,12 +2,11 @@
 title: 'Tutoriales de Journey Orchestration: Descripción general'
 description: Journey Orchestration permite crear casos de uso de orquestación en tiempo real aprovechando los datos contextuales almacenados en eventos o fuentes de datos.
 products: Journey orchestration
-role: Business Practitioner, Administrator
+role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-translation-type: ht
-source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
-workflow-type: ht
-source-wordcount: '209'
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+workflow-type: tm+mt
+source-wordcount: '206'
 ht-degree: 100%
 
 ---
@@ -37,7 +36,7 @@ ht-degree: 100%
     </a>
     </div>
     <p>
-    <em>Comprender el concepto de Journey Orchestration, los tipos de casos de uso que habilita y los elementos clave del funcionamiento de Journey Orchestration.</em>
+    <em>Comprenda el concepto de Journey Orchestration, para qué se puede usar y los elementos clave de su funcionamiento.</em>
     <p>
   </td>
   <td>
