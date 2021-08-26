@@ -1,7 +1,7 @@
 ---
 title: Uso de eventos de calificación de segmentos
 description: Descubra dónde configurar segmentos y cómo configurar un evento de calificación de segmentos en un recorrido.
-feature: Segmentos, eventos
+feature: Segments, Events
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
@@ -10,16 +10,16 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 86%
+source-wordcount: '135'
+ht-degree: 61%
 
 ---
 
 # Uso de eventos de calificación de segmentos
 
-Un evento de calificación de segmentos le permite realizar un recorrido para escuchar las entradas y salidas de perfiles en segmentos de Adobe Experience Platform para que los individuos entren o avancen en un recorrido.
+Un evento de calificación de segmentos le permite a su recorrido escuchar las entradas y salidas de perfiles en segmentos de Adobe Experience Platform. Este tipo de evento se utiliza para que las personas entren o avancen en un recorrido.
 
 Los casos de uso de ejemplo podrían ser los siguientes:
 
