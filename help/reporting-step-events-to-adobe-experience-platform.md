@@ -20,7 +20,7 @@ ht-degree: 55%
 # Creación de informes de los eventos de los pasos para [!UICONTROL Adobe Experience Platform ]
 
 [!UICONTROL Journey Orchestration] envía automáticamente los datos de rendimiento del recorrido a [!UICONTROL Adobe Experience Platform] para que se puedan combinar con otros datos con fines de análisis.
-El siguiente vídeo explica qué son los [!UICONTROL journey step events] y qué [!UICONTROL data steps] se crean automáticamente en [!UICONTROL Experience Platform].
+El siguiente vídeo explica qué [!UICONTROL journey step events] y cuáles [!UICONTROL data steps] se crean automáticamente en [!UICONTROL Experience Platform].
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
 

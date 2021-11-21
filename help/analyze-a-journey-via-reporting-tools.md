@@ -11,13 +11,13 @@ activity: use
 role: User, Admin
 exl-id: f6f13fba-d815-424f-86e5-918577609882
 source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
 
 ---
 
-# Analizar un recorrido con las herramientas de sistema de informes
+# Análisis de un recorrido con las herramientas de creación de informes
 
 El siguiente vídeo explica cómo hacer lo siguiente:
 

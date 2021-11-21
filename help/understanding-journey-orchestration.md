@@ -10,7 +10,7 @@ doc-type: video
 activity: understand
 role: User, Admin
 source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 100%
 

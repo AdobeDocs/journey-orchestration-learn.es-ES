@@ -17,7 +17,7 @@ ht-degree: 30%
 
 ---
 
-# Validación y publicación de un Recorrido
+# Validación y publicación de un recorrido
 
 Puede probar el recorrido antes de su publicación mediante perfiles de prueba. La prueba del recorrido permite analizar el flujo de las personas a través del recorrido y solucionar los problemas antes de la publicación.
 

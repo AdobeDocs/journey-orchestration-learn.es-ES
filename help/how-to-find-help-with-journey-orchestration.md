@@ -1,7 +1,7 @@
 ---
 title: Cómo encontrar ayuda con Journey Orchestration
 description: Comprender cómo puede encontrar ayuda fácilmente
-feature: Información general
+feature: Overview
 topics: Help and Support
 kt: 4019
 thumbnail: 32010.jpg
@@ -12,7 +12,7 @@ role: User, Admin
 exl-id: 80fb9247-1e11-4eae-ab1e-b76f004714ed
 source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '51'
 ht-degree: 86%
 
 ---
