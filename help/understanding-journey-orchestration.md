@@ -9,10 +9,10 @@ audience: user, developer
 doc-type: video
 activity: understand
 role: User, Admin
-source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
+source-git-commit: f46e7dd5cbd60a16b5ab8a58a5a548735a3708fc
 workflow-type: tm+mt
-source-wordcount: '324'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -58,3 +58,4 @@ Los principales pasos para preparar los recorridos de construcción son los sigu
 * [Cómo encontrar ayuda con Journey Orchestration](/help/understanding-journey-orchestration.md)
 * [SDK de Adobe Experience Platform Mobile: Launch](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=es)
 * [Servicio de ubicación de Adobe Experience Platform](https://experienceleague.adobe.com/docs/places/using/home.html?lang=es)
+
