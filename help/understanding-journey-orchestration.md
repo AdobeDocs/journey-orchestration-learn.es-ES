@@ -1,6 +1,6 @@
 ---
 title: Explicación de Journey Orchestration
-description: “Comprenda el concepto de Journey Orchestration, para qué se puede usar y los elementos clave de su funcionamiento”.
+description: Comprenda el concepto de Journey Orchestration, para qué se puede usar y los elementos clave de su funcionamiento.
 feature: Overview
 topics: Introduction
 kt: 2773
@@ -9,19 +9,19 @@ audience: user, developer
 doc-type: video
 activity: understand
 role: User, Admin
-source-git-commit: f46e7dd5cbd60a16b5ab8a58a5a548735a3708fc
+exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
+source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '324'
+ht-degree: 100%
 
 ---
 
-
 # Explicación [!UICONTROL Journey Orchestration]
 
-## Introducción a [!UICONTROL Journey Orchestration]
-
 [!UICONTROL Journey Orchestration] permite crear casos de uso de orquestación en tiempo real aprovechando los datos contextuales almacenados en eventos o fuentes de datos.
+
+## Introducción a [!UICONTROL Journey Orchestration]
 
 [!UICONTROL Journey Orchestration] es un servicio de aplicaciones integrado en Adobe Experience Platform. Proporciona un ecosistema inteligente y abierto para activar todos los datos en directo relevantes mediante una participación escalable y basada en eventos en cualquier canal que su empresa requiera, desde el marketing hasta las operaciones y el servicio. [!UICONTROL Journey Orchestration] puede aprovechar cualquier dato de Adobe Experience Platform y de cualquier sistema de envío externo para crear y ofrecer experiencias atractivas.
 
@@ -58,4 +58,3 @@ Los principales pasos para preparar los recorridos de construcción son los sigu
 * [Cómo encontrar ayuda con Journey Orchestration](/help/understanding-journey-orchestration.md)
 * [SDK de Adobe Experience Platform Mobile: Launch](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=es)
 * [Servicio de ubicación de Adobe Experience Platform](https://experienceleague.adobe.com/docs/places/using/home.html?lang=es)
-
