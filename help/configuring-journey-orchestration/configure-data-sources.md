@@ -10,29 +10,17 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: 06fbf5ae-aae1-4a62-af84-18303c9674c9
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 14%
+source-wordcount: '74'
+ht-degree: 4%
 
 ---
 
 # Configuración de fuentes de datos
 
-[!UICONTROL Journey Orchestration] le permite conectarse a Adobe Experience Platform u otras fuentes de datos de terceros para recuperar información adicional que se puede utilizar en un recorrido para:
-
-* Definición de condiciones
-* Parámetros y datos de personalización en acciones
-* Definición de [!UICONTROL Custom timer] 
-* Definición de zona horaria personalizada
-
-Esta configuración no es necesaria si el recorrido solo aprovecha los datos locales procedentes de una carga útil de evento.
-
-El siguiente vídeo explica cómo: Configure una fuente de datos de Experience Platform y una fuente de datos externa, así como cómo buscar y utilizar datos en un recorrido.
+Obtenga información sobre cómo configurar fuentes de datos de Experience Platform, configurar una fuente de datos externa y buscar y utilizar datos en un recorrido.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12)
 
-## Recursos adicionales
-
-* [Centro de ayuda de Journey Orchestration](https://docs.adobe.com/content/help/es/journeys/using/journey-orchestration-home.html):
-   * [Acerca de las fuentes de datos](https://docs.adobe.com/content/help/en/journeys/using/data-source-journeys/about-data-sources.html)
+Para obtener más información, consulte la [Acerca de las fuentes de datos](https://experienceleague.adobe.com/docs/journeys/using/data-source-journeys/about-data-sources.html?lang=en) en la documentación del producto.

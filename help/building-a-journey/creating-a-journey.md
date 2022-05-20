@@ -10,24 +10,16 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '79'
+ht-degree: 59%
 
 ---
 
-# Creación de un recorrido
 
-El siguiente vídeo explica cómo hacer lo siguiente:
+# Crear un recorrido con Adobe Journey Orchestration
 
-* Crear un nuevo recorrido e iniciar un evento
-* Utilice [!UICONTROL Orchestration] los controles para controlar el flujo y el tiempo de un recorrido.
-* Utilice acciones para comprometerse en los puntos del recorrido.
+Aprenda a crear un recorrido, a empezar con un evento, a utilizar controles de orquestaciones para controlar el flujo y el tiempo de un recorrido y a utilizar Acciones para comprometerse en los puntos del recorrido.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
-
-## Recursos adicionales
-
-* [Centro de ayuda de Journey Orchestration](https://docs.adobe.com/content/help/es/journeys/using/journey-orchestration-home.html):
-   * [Creación de un recorrido](https://docs.adobe.com/content/help/es-ES/journeys/using/building-journeys/about-journey-building/journey.html)

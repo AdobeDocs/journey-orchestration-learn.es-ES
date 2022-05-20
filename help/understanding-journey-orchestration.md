@@ -10,10 +10,10 @@ doc-type: video
 activity: understand
 role: User, Admin
 exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '324'
-ht-degree: 100%
+source-wordcount: '323'
+ht-degree: 89%
 
 ---
 
@@ -39,7 +39,7 @@ Los principales pasos para preparar los recorridos de construcción son los sigu
 
 1. [Configuración de eventos de flujo continuo](/help/configuring-journey-orchestration/configure-streaming-events.md): esta configuración es obligatoria, ya que [!UICONTROL Journey Orchestration] está diseñada para escuchar eventos.
 1. [Configuración de fuentes de datos](/help/configuring-journey-orchestration/configure-data-sources.md): esta configuración no es necesaria si los recorridos solo aprovechan los datos locales procedentes de una carga útil de evento.
-1. [Configuración de acciones personalizadas:](/help/configuring-journey-orchestration/configure-actions.md) esto es necesario si desea utilizar un servicio de cualquier proveedor de terceros al que se pueda llamar a través de un [!DNL REST API] con una carga con formato JSON.
+1. [Configurar acciones personalizadas](/help/configuring-journey-orchestration/configure-actions.md): Necesario si desea utilizar un servicio de cualquier proveedor de terceros al que se pueda llamar mediante un [!DNL REST API] con una carga útil con formato JSON
 
 >[!NOTE]
 >
@@ -56,5 +56,5 @@ Los principales pasos para preparar los recorridos de construcción son los sigu
 * [Centro de ayuda de Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=es)
 * [Tutoriales de Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=es)
 * [Cómo encontrar ayuda con Journey Orchestration](/help/understanding-journey-orchestration.md)
-* [SDK de Adobe Experience Platform Mobile: Launch](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=es)
+* [SDK de Adobe Experience Platform Mobile: Launch](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
 * [Servicio de ubicación de Adobe Experience Platform](https://experienceleague.adobe.com/docs/places/using/home.html?lang=es)
