@@ -12,9 +12,9 @@ team: PM
 role: User, Admin
 exl-id: 185c5c83-5444-4592-b113-732ee561f55a
 source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '57'
-ht-degree: 35%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Aprenda a utilizar la actividad de salto para mover clientes de un recorrido a o
 
 >[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12)
 
-Para obtener más información, visite [documentación del producto](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=es#building-journeys).
+Para obtener más información, visite la [documentación del producto](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=es#building-journeys).
