@@ -11,7 +11,7 @@ getting-started-title: Help Center
 getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html
 level: Beginner
 source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
 ht-degree: 100%
 
@@ -31,6 +31,6 @@ ht-degree: 100%
    + [Cambio a otro recorrido](/help/building-a-journey/jumping-to-another-journey.md)
    + [Actualización de acción de perfil](/help/building-a-journey/update-profile-action.md)
 + [Validación y publicación de un recorrido](/help/validate-and-publish-a-journey.md)
-+ [Análisis de un recorrido con las herramientas de sistema de informes](/help/analyze-a-journey-via-reporting-tools.md)
-+ [Eventos de paso de viaje del sistema de informes a Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
++ [Análisis de un recorrido con las herramientas de creación de informes](/help/analyze-a-journey-via-reporting-tools.md)
++ [Eventos de los pasos del recorrido de la creación de informes a Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
 + [Cómo encontrar ayuda con Journey Orchestration](/help/how-to-find-help-with-journey-orchestration.md)
