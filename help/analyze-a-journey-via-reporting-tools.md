@@ -1,6 +1,6 @@
 ---
 title: Análisis de un recorrido con las herramientas de creación de informes
-description: Conozca cómo navegar hasta el sistema de informes para su recorrido, cómo personalizar los intervalos de fechas para el informe y cómo guardar una plantilla del sistema de informes para uso futuro.
+description: Conozca cómo navegar hasta la creación informes para su recorrido, cómo personalizar los intervalos de fechas para el informe y cómo guardar una plantilla de la creación de informes para uso futuro.
 feature: Reports
 topics: Introduction
 kt: 2777
@@ -11,15 +11,15 @@ activity: use
 role: User, Admin
 exl-id: f6f13fba-d815-424f-86e5-918577609882
 source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
 # Análisis de un recorrido con las herramientas de creación de informes
 
-Conozca cómo navegar hasta el sistema de informes para su recorrido, cómo personalizar los intervalos de fechas para el informe y cómo guardar una plantilla del sistema de informes para uso futuro.
+Conozca cómo navegar hasta la creación de informes para su recorrido, cómo personalizar los intervalos de fechas para el informe y cómo guardar una plantilla de la creación de informes para uso futuro.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29321?quality=12)
 
