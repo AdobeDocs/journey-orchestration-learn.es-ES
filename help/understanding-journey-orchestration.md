@@ -11,9 +11,9 @@ activity: understand
 role: User, Admin
 exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
 source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
-workflow-type: ht
-source-wordcount: '323'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
