@@ -10,8 +10,8 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
-source-git-commit: 2f38aa89396944fa6f77ea6b875293cf295866ff
-workflow-type: tm+mt
+source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
+workflow-type: ht
 source-wordcount: '79'
 ht-degree: 100%
 
@@ -22,5 +22,5 @@ ht-degree: 100%
 
 Aprenda a crear un recorrido, comenzar con un evento, usar controles de orquestaciones para controlar el flujo y el tiempo de un recorrido, y usar acciones de interacción en determinados puntos del recorrido.
 
->[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12&learn=on)
 
