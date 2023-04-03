@@ -10,7 +10,7 @@ doc-type: video
 activity: understand
 role: User, Admin
 exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
-source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
+source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 100%
@@ -31,7 +31,7 @@ El siguiente vídeo presenta lo siguiente:
 * Tipos de casos de uso que habilita.
 * Los elementos clave de cómo [!UICONTROL Journey Orchestration] funciona.
 
->[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12&learn=on)
 
 ## Cómo configurar un recorrido
 

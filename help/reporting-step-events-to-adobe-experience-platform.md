@@ -1,5 +1,5 @@
 ---
-title: 'Eventos de paso de viaje del sistema de informes a Adobe Experience Platform '
+title: Eventos de los pasos del recorrido de la creación de informes a Adobe Experience Platform
 description: Comprenda cuáles son los eventos de paso de recorrido y los pasos de datos y cómo explorarlos.
 feature: Journeys
 topics: Introduction
@@ -10,7 +10,7 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: 1ce7909e-173b-46f4-b20c-e6b5bfcb9d2c
-source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
+source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 20%
@@ -21,6 +21,6 @@ ht-degree: 20%
 
 Comprenda cuáles son los eventos de paso de recorrido y los pasos de datos y cómo explorarlos.
 
->[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12&learn=on)
 
 Consulte [Información general sobre el uso compartido de los pasos del recorrido](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html?lang=en) para obtener más información.

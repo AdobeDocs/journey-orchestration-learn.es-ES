@@ -10,7 +10,7 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
-source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
+source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 48%
@@ -28,6 +28,6 @@ Los casos de uso de ejemplo podrían ser los siguientes:
 
 Este vídeo le ofrece una breve introducción sobre dónde configurar segmentos y cómo configurar un evento de calificación de segmentos en un recorrido.
 
->[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12&learn=on)
 
 Para obtener más información, consulte [Eventos de calificación de segmentos](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html?lang=en).
