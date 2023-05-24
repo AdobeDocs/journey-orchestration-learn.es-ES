@@ -1,6 +1,6 @@
 ---
 title: Uso de eventos de calificación de segmentos
-description: Descubra dónde configurar segmentos y cómo configurar un evento de calificación de segmentos en un recorrido.
+description: Obtenga información sobre dónde configurar segmentos y cómo configurar un evento de calificación de segmentos en un recorrido.
 feature: Segments, Events
 topics: Events
 kt: 5485
@@ -19,7 +19,7 @@ ht-degree: 48%
 
 # Uso de eventos de calificación de segmentos
 
-Un evento de calificación de segmentos le permite a su recorrido escuchar las entradas y salidas de perfiles en segmentos de Adobe Experience Platform. Este tipo de evento se utiliza para que las personas entren o avancen en un recorrido.
+Un evento de calificación de segmentos le permite a su recorrido escuchar las entradas y salidas de perfiles en segmentos de Adobe Experience Platform. Este tipo de evento se utiliza para hacer que las personas entren o avancen en un recorrido.
 
 Los casos de uso de ejemplo podrían ser los siguientes:
 

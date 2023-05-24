@@ -1,6 +1,6 @@
 ---
 title: Validación y publicación de un Recorrido
-description: Aprenda a probar el recorrido antes de su publicación mediante perfiles de prueba.
+description: Obtenga información sobre cómo probar el recorrido antes de su publicación mediante perfiles de prueba.
 feature: Journeys
 topics: Test and publish a journey
 kt: 2778
@@ -19,7 +19,7 @@ ht-degree: 7%
 
 # Validación y publicación de un recorrido
 
-Aprenda a probar el recorrido antes de su publicación mediante perfiles de prueba.
+Obtenga información sobre cómo probar el recorrido antes de su publicación mediante perfiles de prueba.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12&learn=on)
 

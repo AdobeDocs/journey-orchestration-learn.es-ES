@@ -23,4 +23,4 @@ Obtenga información sobre cómo configurar fuentes de datos de Experience Platf
 
 >[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12&learn=on)
 
-Para obtener más información, consulte la [Acerca de las fuentes de datos](https://experienceleague.adobe.com/docs/journeys/using/data-source-journeys/about-data-sources.html?lang=en) en la documentación del producto.
+Para obtener más información, consulte la [Acerca de las fuentes de datos](https://experienceleague.adobe.com/docs/journeys/using/data-source-journeys/about-data-sources.html?lang=en) de la documentación del producto.

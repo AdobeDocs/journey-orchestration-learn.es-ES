@@ -23,4 +23,4 @@ Comprenda cuáles son los eventos de paso de recorrido y los pasos de datos y c�
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12&learn=on)
 
-Consulte [Información general sobre el uso compartido de los pasos del recorrido](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html?lang=en) para obtener más información.
+Consulte [Resumen del uso compartido de pasos de recorrido](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html?lang=en) para obtener más información.
