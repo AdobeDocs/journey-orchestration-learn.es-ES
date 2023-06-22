@@ -3,17 +3,17 @@ title: Configuración de eventos de flujo continuo para el Journey Orchestration
 description: Aprenda a configurar conjuntos de datos y esquemas XDM para eventos de Journey Orchestration, definir un evento en Journey Orchestration y configurar sistemas de origen para eventos de flujo.
 feature: Data Sources, Events, Schemas
 topics: Events
-kt: 3731
+jira: KT-3731
 thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
 role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
-source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
+source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 29%
+ht-degree: 30%
 
 ---
 
@@ -39,8 +39,7 @@ ht-degree: 29%
 >* [SDK móvil de Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=es)
 >* [Servicio de ubicación de Adobe Experience Platform](https://experienceleague.adobe.com/docs/places/using/home.html?lang=es)
 
-
-## Cómo se configura [!UICONTROL streaming events]
+## Cómo configurar [!UICONTROL streaming events]
 
 En el siguiente vídeo se explica cómo:
 

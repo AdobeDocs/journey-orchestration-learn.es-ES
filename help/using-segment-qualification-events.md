@@ -3,14 +3,14 @@ title: Uso de eventos de calificación de segmentos
 description: Obtenga información sobre dónde configurar segmentos y cómo configurar un evento de calificación de segmentos en un recorrido.
 feature: Segments, Events
 topics: Events
-kt: 5485
+jira: KT-5485
 thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
 role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
-source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
+source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 48%
