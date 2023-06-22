@@ -2,13 +2,13 @@
 title: Actualización de acción de perfil
 description: Obtenga información sobre cómo actualizar un perfil de Adobe Experience Platform existente con información proveniente de un evento, una fuente de datos o utilizando un valor específico.
 feature: Actions
-kt: 7313
+jira: KT-7313
 thumbnail: 332112.jpg
 role: User
 activity: use
 team: PM
 exl-id: 5e45b702-2c99-49ad-ae00-65f7555acd09
-source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
+source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
 workflow-type: ht
 source-wordcount: '70'
 ht-degree: 100%
