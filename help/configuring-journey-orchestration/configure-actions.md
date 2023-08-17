@@ -17,7 +17,7 @@ ht-degree: 1%
 
 ---
 
-# Configuración de [!UICONTROL custom actions]
+# Configurar [!UICONTROL custom actions]
 
 Obtenga información sobre cómo configurar una acción para un Journey Orchestration y cómo utilizarla en un recorrido.
 
