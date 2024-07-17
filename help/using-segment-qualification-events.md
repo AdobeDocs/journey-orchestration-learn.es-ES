@@ -12,8 +12,8 @@ role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
 source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 47%
+source-wordcount: '128'
+ht-degree: 53%
 
 ---
 

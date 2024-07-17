@@ -11,7 +11,7 @@ getting-started-title: Help Center
 getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html
 auto-video-transcripts: true
 source-git-commit: 5781e279d59d181619345f2873302479b6c28a84
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
 
